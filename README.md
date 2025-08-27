@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I’m Quách Tấn Dũng
 
-<!--
-**dungquach12/dungquach12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bachelor’s Degree Student in Information Technology @ VNU-HCM University of Science  
+📊 Aspiring Data Analyst | SQL • Power BI • Python • Machine Learning  
+💡 Passionate about data-driven problem solving  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- **Languages**: Python, SQL, C++, JavaScript  
+- **Data Tools**: Power BI, Pandas, Matplotlib, Scikit-learn  
+- **Other**: Git, HTML/CSS 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+
+
+## 🌐 Connect
+- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/d%C5%A9ng-qu%C3%A1ch-874040361/))  
+- [Email](quachtandung.business@gmail.com)
