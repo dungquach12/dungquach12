@@ -13,5 +13,5 @@
 
 
 ## 🌐 Connect
-- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/d%C5%A9ng-qu%C3%A1ch-874040361/))  
+- [LinkedIn](https://www.linkedin.com/in/d%C5%A9ng-qu%C3%A1ch-874040361/)
 - [Email](quachtandung.business@gmail.com)
