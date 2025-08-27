@@ -1,12 +1,12 @@
 # 👋 Hi, I’m Quách Tấn Dũng
 
 🎓 Bachelor’s Degree Student in Information Technology @ VNU-HCM University of Science  
-📊 Aspiring Data Analyst | SQL • Power BI • Python • Machine Learning  
+📊 Aspiring Data Analyst | SQL • Python • Machine Learning • Tableau 
 💡 Passionate about data-driven problem solving  
 
 ## 🔧 Skills
 - **Languages**: Python, SQL, C++, JavaScript  
-- **Data Tools**: Power BI, Pandas, Matplotlib, Scikit-learn  
+- **Data Tools**: Tableau, Pandas, Matplotlib, Scikit-learn  
 - **Other**: Git, HTML/CSS 
 
 ## 📂 Featured Projects
