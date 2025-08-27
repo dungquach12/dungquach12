@@ -7,7 +7,7 @@
 ## 🔧 Skills
 - **Languages**: Python, SQL, C++, JavaScript  
 - **Data Tools**: Tableau, Pandas, Matplotlib, Scikit-learn  
-- **Other**: Git, HTML/CSS 
+- **Other**: Git, HTML/CSS, Qt
 
 ## 📂 Featured Projects
 
