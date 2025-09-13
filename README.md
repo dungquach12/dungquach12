@@ -10,7 +10,11 @@
 - **Other**: Git, HTML/CSS, Qt
 
 ## 📂 Featured Projects
-
+### 🔹 AI-Powered Document Assistant (Graduation Project)
+- Built a backend server to process PDF documents (scanned + digital) using OCR (Gemini) and RAG architecture.
+- Encoded text with SBERT and stored in PostgreSQL + pgvector for semantic search.
+- Exposed a gRPC service for chatbot integration (Gemini 2.5 Flash).
+- Result: chatbot could answer customer technical queries with both text + relevant images.
 
 ## 🌐 Connect
 - [LinkedIn](https://www.linkedin.com/in/d%C5%A9ng-qu%C3%A1ch-874040361/)
