@@ -7,7 +7,7 @@
 ## 🔧 Skills
 - **Languages**: Python, SQL, C++, JavaScript  
 - **Data Tools**: Tableau, Pandas, Matplotlib, Scikit-learn  
-- **Other**: Git, HTML/CSS, Qt
+- **Other**: HTML/CSS, Qt
 
 ## 📂 Featured Projects
 ### 🔹 AI-Powered Document Assistant (Graduation Project)
