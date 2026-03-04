@@ -1,8 +1,6 @@
 # 👋 Hi, I’m Quách Tấn Dũng
 
-🎓 Graduated with Bachelor’s Degree in Information Technology @ VNU-HCM University of Science 
-📊 Aspiring Data Analyst | SQL • Python • Machine Learning • Tableau  • R
-💡 Passionate about data-driven problem solving  
+Graduated with Bachelor’s Degree in Information Technology @ VNU-HCM University of Science 
 
 ## 🔧 Skills
 - **Languages**: Python, SQL, C++, JavaScript  
