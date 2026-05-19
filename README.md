@@ -11,9 +11,9 @@
 ### 🔹 Revenue Tracker – Sales Management System
 **Technology**: Bootstrap 5.x, Node.js, ExpressJS, Sequelize ORM, PostgreSQL
 **Fullstack Developer (Personal project)**
-- Backend & Database: Built full-stack app with Node.js/Express, PostgreSQL, and Sequelize ORM with relational schema (7 models, migrations, seeders).
-- Authentication & APIs: Implemented secure user login with bcrypt hashing, session management, and RESTful API routes with input validation.
-- Frontend & UI: Created server-side rendered frontend with Handlebars templating, custom helpers for Vietnamese formatting, and responsive product/sales dashboards.
+- Designed a relational PostgreSQL schema (7 models) with Sequelize ORM, including migrations and seeders for consistent environment setup across development and production.
+- Implemented JWT-based authentication with secure cookie storage; built validated RESTful API routes covering all core CRUD operations.
+- Built server-side rendered UI with Handlebars and custom template helpers for Vietnamese locale formatting; delivered responsive product and sales dashboards.
 
 ## 🌐 Connect
 - [LinkedIn](https://www.linkedin.com/in/d%C5%A9ng-qu%C3%A1ch-874040361/)
